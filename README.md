@@ -1,6 +1,6 @@
 <!-- iOS Top Status Bar Simulation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=475&lines=ALI+IBRRAHIM)](https://git.io/typing-svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=475&lines=ALI+IBRRAHIM" alt="Typing SVG" />
 </div>
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ali Ibrahim
